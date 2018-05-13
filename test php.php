@@ -10,21 +10,6 @@
         echo $datatanggal;
            
         sdasdasd
-        asdasdasd
-        asd
-        asdas
-        d
-        as
-        das
-        d
-        asd
-        as
-        ds
-        ad
-        asd
-        as
-        das
-        d
         sa
         
         function _getnama($params){
