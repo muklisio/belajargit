@@ -9,6 +9,24 @@
         $datatanggal = DateTime::RFC822;
         echo $datatanggal;
            
+        sdasdasd
+        asdasdasd
+        asd
+        asdas
+        d
+        as
+        das
+        d
+        asd
+        as
+        ds
+        ad
+        asd
+        as
+        das
+        d
+        sa
+        
         function _getnama($params){
             if ($params==null){
                 echo"nama tidak ada dirubah ke anymous";
